@@ -25,10 +25,20 @@
     </body>
 
     <style>
+        
         .custom-login {
             height: 500px;
             padding-top: 100px;
         }
+
+        .footer-fixed-bottom {
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            
+        }
+
     </style>
 
 </html>
